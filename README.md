@@ -5,7 +5,8 @@
 
 ✨ A clean, responsive single-page website template perfect for personal portfolios, business landing pages, or project showcases.
 
-![Website Preview](assets/images/preview.jpg)
+![Screenshot 2025-05-06 160956](https://github.com/user-attachments/assets/1e76d9e2-ad0c-4a3d-89ff-8f3bb92aa9c6)
+
 
 ## 🚀 Features
 - **Mobile-first** responsive design
