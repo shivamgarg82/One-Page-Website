@@ -1,4 +1,3 @@
-# One-Page-Website
 # 🌐 One-Page Website Template
 
 [![GitHub license](https://img.shields.io/github/license/shivamgarg82/One-Page-Website)](LICENSE)
