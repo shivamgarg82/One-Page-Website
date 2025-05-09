@@ -7,7 +7,7 @@
 
 ![Screenshot 2025-05-06 160956](https://github.com/user-attachments/assets/1e76d9e2-ad0c-4a3d-89ff-8f3bb92aa9c6)
 
-
+   
 ## 🚀 Features
 - **Mobile-first** responsive design
 - **Smooth scrolling** navigation
