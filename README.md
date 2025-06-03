@@ -11,7 +11,7 @@
 ## 🚀 Features
 - **Mobile-first** responsive design
 - **Smooth scrolling** navigation
-- **Modern UI** with CSS animations
+- **Modern UI** with CSS animations 
 - **Lightweight** (< 50KB resources)
 - **SEO-optimized** structure
 - **Fast loading** (95+ Lighthouse score)
